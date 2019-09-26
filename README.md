@@ -18,15 +18,17 @@
 
 电脑端效果
 
-![](https://github.com/soyoumi/eqdll/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%94%B5%E8%84%91%E7%AB%AF%E5%AE%9E%E9%AA%8C%E6%95%88%E6%9E%9C%2020190921132206.png)
+![s](https://github.com/soyoumi/eqdll/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%94%B5%E8%84%91%E7%AB%AF%E5%AE%9E%E9%AA%8C%E6%95%88%E6%9E%9C%2020190921132206.png)
 
-![电脑端](https://github.com/soyoumi/eqdll/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%94%B5%E8%84%91%E7%AB%AF%20%E5%8F%B3%E4%B8%8B%E8%A7%92%E5%BC%B9%E5%87%BA%E7%AA%97%20%E6%8F%90%E9%86%92%E5%86%85%E5%AE%B9%20%E6%95%88%E6%9E%9C%E6%88%AA%E5%9B%BE.png)
+![s](https://github.com/soyoumi/eqdll/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/%E7%94%B5%E8%84%91%E7%AB%AF%20%E5%8F%B3%E4%B8%8B%E8%A7%92%E5%BC%B9%E5%87%BA%E7%AA%97%20%E6%8F%90%E9%86%92%E5%86%85%E5%AE%B9%20%E6%95%88%E6%9E%9C%E6%88%AA%E5%9B%BE.png)
 
 手机端效果 
 
-![](https://github.com/soyoumi/eqdll/%E6%95%88%E6%9E%9C%E5%9B%BE/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%AB%AF%20%E7%8A%B6%E6%80%81%E6%A0%8F%E6%8F%90%E9%86%92%E5%86%85%E5%AE%B9%20%E6%95%88%E6%9E%9C%E6%88%AA%E5%9B%BE.png)
+<img src="https://github.com/soyoumi/eqdll/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%89%8B%E6%9C%BA%E7%AB%AF%E5%AE%9E%E9%AA%8C%E6%95%88%E6%9E%9C%2020190921132143.png" height="330" width="200">
 
-<img src="https://github.com/soyoumi/eqdll/%E6%95%88%E6%9E%9C%E5%9B%BE/%E6%89%8B%E6%9C%BA%E7%AB%AF%E5%AE%9E%E9%AA%8C%E6%95%88%E6%9E%9C%2020190921132143.png" height="330" width="200">
+![s](https://github.com/soyoumi/eqdll/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%AB%AF%20%E7%8A%B6%E6%80%81%E6%A0%8F%E6%8F%90%E9%86%92%E5%86%85%E5%AE%B9%20%E6%95%88%E6%9E%9C%E6%88%AA%E5%9B%BE.png)
+
+
 
 
 ### 文件格式说明
